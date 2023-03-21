@@ -1,7 +1,11 @@
+body {
+  background-color: rgb(229, 205, 161);
+}
+
 /* Style the header with a grey background and some padding */
 .header {
     overflow: hidden;
-    background-color: #f1f1f1;
+    background-color: rgb(199, 216, 147);
     padding: 20px 10px;
   }
   
@@ -50,8 +54,8 @@
   .family-pic {
     width: 37%;
     float: right;
-    border: 5px solid black;
-    margin: 2%;
+    border: 8px solid rgb(199, 216, 147);
+    margin: 1%;
   }
 
   .subheader {
@@ -61,29 +65,53 @@
   }
 
   .temporada {
-    font-size: 60px;
+    font-size: 8vw;
     text-align: center;
+    line-height: 150px;
+    margin-top: 17%;
+    margin-bottom: 10px;
   }
 
   .versiculo {
     text-align: center;
-    font-size: 40px;
+    font-size: 2vw;
     font-style: italic;
+    margin-bottom: 20px;
   }
 
-.div-left{
-  padding: 0px 30px;
-  width: 55%;
-  float: left;
-  font-size: 45px;
-  text-align: justify;
-  text-justify: inter-word;
-}
+  .div-left{
+    margin-top: 0px;
+    padding: 1%;
+    width: 55%;
+    float: left;
+    text-align: justify;
+    text-justify: inter-word;
+    margin-bottom: 15px;
+  }
 
-p.firstP {
-  back
-}
+  .div-right{
+    padding: 1%;
+    width: 50%;
+    float: right;
+    text-align: justify;
+  }
 
-.subtitulo {
-   background-color: rgb(212, 212, 81);
-}
+  .introducao {
+    font-size: 2vw;
+  }
+
+  .subtitulo {
+    font-size: 2.5vw;
+    background-color: rgb(199, 216, 147);
+  }
+
+  #paragrafo {
+    font-size: 1.5vw;
+  }
+
+  .divisaPE {
+    width: 45%;
+    float: left;
+    border: 8px solid rgb(199, 216, 147);
+    margin: 1%;
+  }
