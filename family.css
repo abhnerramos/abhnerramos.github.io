@@ -52,7 +52,7 @@ body {
   }
 
   .family-pic {
-    width: 37%;
+    width: 37vw;
     float: right;
     border: 8px solid rgb(199, 216, 147);
     margin: 1%;
@@ -110,8 +110,25 @@ body {
   }
 
   .divisaPE {
-    width: 45%;
+    width: 43%;
     float: left;
     border: 8px solid rgb(199, 216, 147);
     margin: 1%;
+  }
+  
+  .familiaElevador {
+    width: 30vw;
+    float: right;
+    border: 8px solid rgb(199, 216, 147);
+    margin: 1%;
+  }
+
+  .div-left-AbLe{
+    margin-top: 0px;
+    padding: 2%;
+    width: 60%;
+    float: left;
+    text-align: justify;
+    text-justify: inter-word;
+    margin-bottom: 15px;
   }
