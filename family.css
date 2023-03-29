@@ -61,22 +61,23 @@ body {
   .subheader {
     width: 55%;
     float: left;
-    line-height: 45px;
+    line-height: 35px;
   }
 
   .temporada {
     font-size: 8vw;
     text-align: center;
-    line-height: 150px;
-    margin-top: 17%;
-    margin-bottom: 10px;
+    line-height: 8vw;
+    margin-top: 5%;
+    margin-bottom: 5%;
   }
 
   .versiculo {
     text-align: center;
     font-size: 2vw;
+    line-height: 2vw;
     font-style: italic;
-    margin-bottom: 20px;
+    margin-bottom: 1%;
   }
 
   .div-left{
@@ -86,7 +87,7 @@ body {
     float: left;
     text-align: justify;
     text-justify: inter-word;
-    margin-bottom: 15px;
+    margin-bottom: 5%;
   }
 
   .div-right{
@@ -125,10 +126,42 @@ body {
 
   .div-left-AbLe{
     margin-top: 0px;
-    padding: 2%;
-    width: 60%;
+    padding: 3%;
+    width: 57%;
     float: left;
     text-align: justify;
     text-justify: inter-word;
+    margin-bottom: 10px;
+  }
+ 
+  .div-gratidao{
+    margin-top: 0px;
+    padding-left: 3%;
+    display: block;
+    float: left;
+    width: 97%;
+    text-align: justify;
+    text-justify: inter-word;
+    margin-bottom: 15px;
+  }
+ 
+  .div-oracao{
+    margin-top: 0px;
+    padding-left: 3%;
+    width: 97%;
+    float: left;
+    margin-bottom: 15px;  
+  }
+
+  .footer {
+    border: 5px black solid;
+    padding: 10px 15px;
+    float: left;
+    width: 90%%;
+    background-color: rgb(199, 216, 147);
+    color: black;
+    text-align: justify;
+    text-justify: inter-word;
+    font-size: 1.5vw;
     margin-bottom: 15px;
   }
