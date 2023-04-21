@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300,400,700|PT++Mono);
 
 :root{
-    --primary-color: lightcoral;
+    --primary-color: rgb(70, 182, 238);
     --secondary-color: dimgrey;
     --tertiary-color: gainsboro;
 }
@@ -17,7 +17,7 @@ body {
     width: 360px;
     margin: 100px auto;
     background: #f7f7f7;
-    box-shadow: 5px 5px 5px black;
+    box-shadow: 5px 5px 5px var(--secondary-color);
     border-radius: 20px;
 }
 
@@ -45,7 +45,8 @@ body {
 }
 
 .formInput:focus {
-    border: 3px solide var(--primary-color);
+    border: 3px solid var(--primary-color);
+    padding: 5px 5px 8px 8xp;
     outline: none;
 }
 
@@ -68,5 +69,14 @@ body {
     color: white;
 }
 
+#totalTip {
+    font-size: 20px;
+    margin-top: 5px;
+    text-align: center;
+}
 
-
+#totalBill {
+    font-size: 20px;
+    margin-top: 5px;
+    text-align: center;
+}
