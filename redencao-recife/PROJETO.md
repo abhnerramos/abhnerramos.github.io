@@ -5,7 +5,7 @@ Este arquivo resume tudo o que já foi definido para o site. O `index.html` dest
 ## Sobre a igreja
 
 - **Nome:** Igreja Batista Redenção (IBR), Recife, PE.
-- **Perfil:** igreja em plantação, com 3 anos de existência e cerca de 110 membros.
+- **Perfil:** igreja plantada em Nov, 2023 e com cerca de 110 membros.
 - **Endereço:** Av. Prof. José dos Anjos, 717, Recife, PE, CEP 52110-210.
 - **Como chegar:** há vagas para estacionar na própria Av. Prof. José dos Anjos. A parada de ônibus mais próxima fica na Avenida Norte, em frente ao Nexos Hotel Tamarineira.
 
